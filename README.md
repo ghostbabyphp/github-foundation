@@ -17,13 +17,13 @@ This repository documents my hands-on practice and study notes as I prepare for 
 
 ### 3. Collaboration Features
 * [x] Fork a repository, make changes, and open a Pull Request (PR).
-* [ ] Practice reviewing PRs, leaving inline comments, and linking Issues to PRs using keywords (e.g., `Closes #1`).
-* [ ] Set up and participate in GitHub Discussions.
+* [x] Practice reviewing PRs, leaving inline comments, and linking Issues to PRs using keywords (e.g., `Closes #1`).
+* [x] Set up and participate in GitHub Discussions.
 
 ### 4. Modern Development
 * [x] Launch a cloud development environment using GitHub Codespaces.
-* [ ] Explore basic automation concepts with GitHub Actions.
-* [ ] Experiment with GitHub Copilot features and prompts.
+* [x] Explore basic automation concepts with GitHub Actions.
+* [x] Experiment with GitHub Copilot features and prompts.
 
 ### 5. Project Management
 * [ ] Create a GitHub Project board (Table and Board views).
