@@ -6,22 +6,22 @@ This repository documents my hands-on practice and study notes as I prepare for 
 ## Exam Domains & Practice Steps
 
 ### 1. Introduction to Git and GitHub
-* [ ] Configure Git locally (`git config`) and authenticate with GitHub.
-* [ ] Practice creating repositories, cloning, and managing `.gitignore` files.
-* [ ] Master basic commands (`add`, `commit`, `status`, `log`, `push`, `pull`).
+* [x] Configure Git locally (`git config`) and authenticate with GitHub.
+* [x] Practice creating repositories, cloning, and managing `.gitignore` files.
+* [x] Master basic commands (`add`, `commit`, `status`, `log`, `push`, `pull`).
 
 ### 2. Working with GitHub Repositories
-* [ ] Create and switch between branches (`git branch`, `git checkout` / `git switch`).
-* [ ] Resolve intentional merge conflicts locally and via the GitHub UI.
+* [x] Create and switch between branches (`git branch`, `git checkout` / `git switch`).
+* [x] Resolve intentional merge conflicts locally and via the GitHub UI.
 * [ ] Organize repository assets using `README.md`, `CONTRIBUTING.md`, and issue templates.
 
 ### 3. Collaboration Features
-* [ ] Fork a repository, make changes, and open a Pull Request (PR).
+* [x] Fork a repository, make changes, and open a Pull Request (PR).
 * [ ] Practice reviewing PRs, leaving inline comments, and linking Issues to PRs using keywords (e.g., `Closes #1`).
 * [ ] Set up and participate in GitHub Discussions.
 
 ### 4. Modern Development
-* [ ] Launch a cloud development environment using GitHub Codespaces.
+* [x] Launch a cloud development environment using GitHub Codespaces.
 * [ ] Explore basic automation concepts with GitHub Actions.
 * [ ] Experiment with GitHub Copilot features and prompts.
 
