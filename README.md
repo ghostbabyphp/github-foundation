@@ -13,7 +13,7 @@ This repository documents my hands-on practice and study notes as I prepare for 
 ### 2. Working with GitHub Repositories
 * [x] Create and switch between branches (`git branch`, `git checkout` / `git switch`).
 * [x] Resolve intentional merge conflicts locally and via the GitHub UI.
-* [ ] Organize repository assets using `README.md`, `CONTRIBUTING.md`, and issue templates.
+* [x] Organize repository assets using `README.md`, `CONTRIBUTING.md`, and issue templates.
 
 ### 3. Collaboration Features
 * [x] Fork a repository, make changes, and open a Pull Request (PR).
