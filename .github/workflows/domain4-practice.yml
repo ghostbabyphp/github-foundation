@@ -1,0 +1,28 @@
+name: Domain 4 Practice Workflow
+
+# EVENTS: When this workflow triggers
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch: # Allows you to trigger it manually with a button!
+
+# JOBS: A set of steps that execute on the same runner
+jobs:
+  check-repo-files:
+    # RUNNER: The virtual machine hosting the job
+    runs-on: ubuntu-latest
+
+    # STEPS: Individual tasks run sequentially
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@v4
+
+      - name: Verify required community health files exist
+        run: |
+          echo "Checking repository files..."
+          ls -la
+          test -f README.md && echo "README.md found!"
+          test -f LICENSE && echo "LICENSE found!"
+          test -f SECURITY.md && echo "SECURITY.md found!"
