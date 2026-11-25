@@ -30,5 +30,5 @@ Thank you for helping me practice GitHub collaboration workflows! Whether you ar
 6. Open a **Pull Request** against the `main` branch of this repository and link any related issues (e.g., `Closes #1`).
 
 ## Code of Conduct
-Be respectful, constructive, and supportive—this is a learning environment!
+Follow the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) file for details.!
 
