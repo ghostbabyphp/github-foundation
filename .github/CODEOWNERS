@@ -1,9 +1,9 @@
 # Default owner for everything in the repository
 # Unless a later match takes precedence, this user will be requested for review
-* @ghostbabyphp
+* @kaggwe-marvin
 
 # Specific ownership for documentation files
 *.md @kaggwe-marvin
 
 # Specific ownership for GitHub configuration and templates
-/.github/ @ghostbabyphp
+/.github/ @kaggwe-marvin
