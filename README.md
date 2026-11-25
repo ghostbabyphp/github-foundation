@@ -1,4 +1,4 @@
-# GitHub Foundations Exam Prep Tracker
+# GitHub Foundation
 
 ## Purpose
 This repository documents my hands-on practice and study notes as I prepare for the **GitHub Foundations certification exam**. The goal is to build practical experience across all core exam domains—from basic Git workflows to project management and collaboration—in a single organized space.
