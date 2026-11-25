@@ -41,12 +41,7 @@ This repository documents my hands-on practice and study notes as I prepare for 
 ---
 
 ## How to Contribute
-While this is primarily a personal study repository, study tips, resource links, and practice scenarios are welcome!
-1. **Fork** the repository.
-2. Create a new branch (`git checkout -b add-study-tip`).
-3. Commit your changes (`git commit -m "Add tip for pull request workflows"`).
-4. **Push** to the branch (`git push origin add-study-tip`).
-5. Open a **Pull Request** explaining what you added.
+To contribute to this project — see the [CONTRIBUTING](CONTRIBUTING.md) file for details.
 
 ## License
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
