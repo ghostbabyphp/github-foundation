@@ -1,0 +1,36 @@
+name: Exam Domain Note / Resource
+description: Add a study tip, cheat sheet, or helpful link for a specific exam domain
+title: "[NOTE] "
+labels: ["documentation", "study-resource"]
+body:
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Exam Domain
+      description: Select the GitHub Foundations domain this note applies to.
+      options:
+        - "Domain 1: Introduction to Git and GitHub"
+        - "Domain 2: Working with GitHub Repositories"
+        - "Domain 3: Collaboration Features"
+        - "Domain 4: Modern Development"
+        - "Domain 5: Project Management"
+        - "Domain 6: Privacy, Security, and Administration"
+        - "Domain 7: Benefits of the GitHub Community"
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Key Takeaway or Command
+      description: Summarize the concept or paste the Git commands you practiced.
+      placeholder: "e.g., git switch -c <branch-name> creates and switches to a new branch."
+    validations:
+      required: true
+
+  - type: input
+    id: docs-link
+    attributes:
+      label: Reference URL
+      description: Link to the official GitHub Docs page (optional).
+      placeholder: "https://github.com..."
